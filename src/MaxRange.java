@@ -29,8 +29,8 @@ public class MaxRange {
 
         //char and boolean
         char myChar = 'a'; // takes up two bytes
-        char unicodeChar = '\u0D05'; // malayalam letter aa - use \u followed by the code
+        char unicodeChar = '\u0D05'; // malayalam letter aa - use slash u followed by the code
         System.out.println(unicodeChar);
-        boolean myBool = true; // unlike Python, t is not capitalized
+        boolean myBool = true; // unlike Python, t is not capitalized; takes 1 bit
     }
 }
