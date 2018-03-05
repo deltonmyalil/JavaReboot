@@ -5,4 +5,7 @@
 5 - Keywords (INCOMPLETE)
 6 - Statements (INCOMPLETE)
 7 - Conditionals: Scope of variables inside a conditional code block
-8 - Methods
+8 - MethodsDemo
+9 - MethodChallenge
+10 - Method Overload Challenge - feet to cm
+11 - Switch statement

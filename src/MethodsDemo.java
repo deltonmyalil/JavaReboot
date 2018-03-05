@@ -6,6 +6,7 @@ public class MethodsDemo {
         System.out.println(b);
         double c = calculateScore(10,0);
         System.out.println(c);
+
     }
     public static double calculateScore(double scoreOutOfTen, int offset) {
         //System.out.println("Calculating score out of 100");
